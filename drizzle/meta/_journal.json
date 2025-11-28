@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763134833946,
+      "tag": "0000_overconfident_revanche",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763134888215,
+      "tag": "0001_lively_hulk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763135242585,
+      "tag": "0002_cultured_yellowjacket",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763939952875,
+      "tag": "0003_panoramic_multiple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1763940038097,
+      "tag": "0004_ambiguous_professor_monster",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1763987122978,
+      "tag": "0005_nasty_xavin",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1764159808540,
+      "tag": "0006_gorgeous_mephisto",
+      "breakpoints": true
+    }
+  ]
+}
