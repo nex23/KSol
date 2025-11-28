@@ -263,11 +263,11 @@ Para reportar bugs, sugerencias o preguntas:
 
 - **Issues:** Abre un issue en GitHub
 - **Discussions:** Participa en las discusiones del proyecto
-- **Email:** contacto@ksol.dev
+- **Email:** yo@hugonex.com - thenex@gmail.com
 
 ## Créditos
 
-Desarrollado con ❤️ para la comunidad boliviana.
+Desarrollado por HugoNex con ❤️ para la comunidad boliviana.
 
 ---
 
